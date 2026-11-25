@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 1420" width="1300" height="1420" font-family="Arial,Helvetica,sans-serif">
+<rect width="1300" height="1420" fill="#fff"/>
+<text x="40" y="50" font-size="34" font-weight="bold" fill="#1b1b1b">C3 y C4 (22 pF) junto al cristal: vista de arriba, a escala</text>
+<rect x="40" y="90" width="1160" height="880" fill="#e8f3e8" stroke="#2e7d32" stroke-width="3"/>
+<rect x="60.0" y="753.9999999999998" width="1140.0" height="216.00000000000023" fill="#d5d8dc" stroke="#566573" stroke-width="3"/>
+<text x="680" y="913.9999999999998" font-size="26" text-anchor="middle" fill="#283747">zócalo del ATmega (U2)</text>
+<rect x="296.0000000000002" y="231.9999999999999" width="440.0" height="186.00000000000023" rx="93.00000000000011" fill="#d6eaf8" stroke="#117a65" stroke-width="4"/>
+<text x="516.0000000000002" y="353.9999999999998" font-size="26" font-weight="bold" text-anchor="middle" fill="#117a65">Y1 16 MHz</text>
+<line x1="522.2400000000005" y1="589.28" x2="343.9999999999998" y2="589.28" stroke="#7f8c8d" stroke-width="7" stroke-linecap="round"/>
+<line x1="522.2400000000005" y1="487.6799999999997" x2="343.9999999999998" y2="487.6799999999997" stroke="#7f8c8d" stroke-width="7" stroke-linecap="round"/>
+<circle cx="343.9999999999998" cy="538.4800000000001" r="100.0" fill="#f5b041" fill-opacity="0.92" stroke="#b9770e" stroke-width="4"/>
+<text x="343.9999999999998" y="532.4800000000001" font-size="30" font-weight="bold" text-anchor="middle" fill="#6e2c00">C4</text>
+<text x="343.9999999999998" y="564.4800000000001" font-size="22" text-anchor="middle" fill="#6e2c00">22 pF</text>
+<line x1="715.2800000000002" y1="589.28" x2="892.0000000000005" y2="589.28" stroke="#7f8c8d" stroke-width="7" stroke-linecap="round"/>
+<line x1="715.2800000000002" y1="487.6799999999997" x2="892.0000000000005" y2="487.6799999999997" stroke="#7f8c8d" stroke-width="7" stroke-linecap="round"/>
+<circle cx="892.0000000000005" cy="538.4800000000001" r="100.0" fill="#f5b041" fill-opacity="0.92" stroke="#b9770e" stroke-width="4"/>
+<text x="892.0000000000005" y="532.4800000000001" font-size="30" font-weight="bold" text-anchor="middle" fill="#6e2c00">C3</text>
+<text x="892.0000000000005" y="564.4800000000001" font-size="22" text-anchor="middle" fill="#6e2c00">22 pF</text>
+<rect x="490.24000000000046" y="557.28" width="64.0" height="64.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="522.2400000000005" cy="487.6799999999997" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<rect x="683.2800000000002" y="557.28" width="64.0" height="64.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="715.2800000000002" cy="487.6799999999997" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<rect x="581.6800000000005" y="293.12" width="64.0" height="64.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="418.47999999999956" cy="325.12" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<rect x="1089.68" y="536.9600000000002" width="64.0" height="64.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="1121.68" cy="162.55999999999972" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="1152.159999999999" cy="812.7999999999997" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="1050.5599999999993" cy="812.7999999999997" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="948.9599999999996" cy="812.7999999999997" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="847.3599999999999" cy="812.7999999999997" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="745.7599999999991" cy="812.7999999999997" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="644.1599999999994" cy="812.7999999999997" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="542.5599999999997" cy="812.7999999999997" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="440.96000000000004" cy="812.7999999999997" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="339.3599999999992" cy="812.7999999999997" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="237.75999999999954" cy="812.7999999999997" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<circle cx="136.15999999999985" cy="812.7999999999997" r="32.0" fill="#c9a227" stroke="#7a5c00" stroke-width="3"/>
+<text x="542.5599999999997" y="820.7999999999997" font-size="20" font-weight="bold" text-anchor="middle" fill="#000">9</text>
+<text x="440.96000000000004" y="820.7999999999997" font-size="20" font-weight="bold" text-anchor="middle" fill="#000">10</text>
+<text x="1161.68" y="370" font-size="24" fill="#c0392b" font-weight="bold">R3</text>
+<text x="40" y="1160" font-size="30" font-weight="bold" fill="#1b1b1b">Vista de lado: patas dobladas y capacitor acostado hacia afuera</text>
+<rect x="80" y="1330" width="1140" height="24" fill="#2e7d32"/>
+<text x="650" y="1390" font-size="24" text-anchor="middle" fill="#2e7d32">PCB</text>
+<polyline points="520,1354 520,1300 480,1275" fill="none" stroke="#7f8c8d" stroke-width="7" stroke-linejoin="round"/>
+<rect x="280" y="1240" width="200" height="60" rx="28" fill="#f5b041" stroke="#b9770e" stroke-width="4"/>
+<text x="380" y="1280" font-size="28" font-weight="bold" text-anchor="middle" fill="#6e2c00">C4</text>
+<polyline points="780,1354 780,1300 820,1275" fill="none" stroke="#7f8c8d" stroke-width="7" stroke-linejoin="round"/>
+<rect x="820" y="1240" width="200" height="60" rx="28" fill="#f5b041" stroke="#b9770e" stroke-width="4"/>
+<text x="920" y="1280" font-size="28" font-weight="bold" text-anchor="middle" fill="#6e2c00">C3</text>
+<text x="650" y="1230" font-size="24" text-anchor="middle" fill="#1b1b1b">patas cortas, ~3 mm arriba de la placa</text>
+</svg>

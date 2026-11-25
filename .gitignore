@@ -1,0 +1,23 @@
+# Altium: historial, logs y vistas previas que se generan solos
+History/
+Project Logs for*/
+__Previews/
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure.bak
+*.~*
+*.Dat
+.~lock*
+
+# KiCad: respaldos
+*-backups/
+*.kicad_prl
+fp-info-cache
+
+# Arduino
+build/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
